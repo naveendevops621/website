@@ -1,2 +1,2 @@
-FROM naveendevops8977/apache
+FROM hshar/webapp
 ADD . /var/www/html
